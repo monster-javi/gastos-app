@@ -32,6 +32,10 @@ Planilla de gastos personales en la nube: anual, por categorías y en varias mon
 - Control de topes de **Monotributo** por categoría.
 - Jornadas trabajadas por mes, para armar la factura del mes siguiente.
 
+**🔔 Alertas**
+- Una barra abajo va rotando lo que necesita atención: gastos sin pagar o por vencer, el tope del monotributo (desde el 90%), facturas sin cobrar, cuentas compartidas sin saldar y movimientos por aprobar. Tocás una y te lleva a donde está.
+- Con las notificaciones prendidas, te avisa también por fuera de la app de lo urgente.
+
 **Y además**
 - Español / inglés.
 - Sincronización en tiempo real entre dispositivos.
