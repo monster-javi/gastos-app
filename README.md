@@ -20,7 +20,7 @@ Planilla de gastos personales en la nube: anual, por categorías y en varias mon
 
 **🤝 Deudas**
 - Lo que te deben y lo que debés, en cuotas y en cualquier moneda.
-- **Cuentas compartidas** para viajes o salidas: cada uno carga lo que pagó y la app calcula quién le paga a quién, con la menor cantidad de pagos.
+- **Cuentas compartidas** para viajes o salidas: cada uno carga lo que pagó y la app calcula quién le paga a quién, con la menor cantidad de pagos. Cada gasto lleva su fecha y se pueden reordenar arrastrando.
 - Resumen **por persona** que junta todo.
 
 **🔐 Bóveda**
@@ -54,6 +54,10 @@ Hermana de [Task App](https://github.com/monster-javi/task-app): comparten el di
 
 ---
 
-Si te sirve y querés bancar el proyecto, ¡invitame un cafecito! ☕
-
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_2.svg)](https://cafecito.app/monsterjavi)  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51FQ52H)
+<p align="center">
+  Si te sirve y querés bancar el proyecto, ¡invitame un cafecito! ☕
+  <br><br>
+  <a href="https://cafecito.app/monsterjavi"><img src="https://cdn.cafecito.app/imgs/buttons/button_2.svg" alt="Invitame un café en cafecito.app" height="36"></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/R6R51FQ52H"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Apoyame en Ko-fi" height="36"></a>
+</p>
