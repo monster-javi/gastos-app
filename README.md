@@ -32,6 +32,10 @@ Planilla de gastos personales en la nube: anual, por categorías y en varias mon
 - Control de topes de **Monotributo** por categoría.
 - Jornadas trabajadas por mes, para armar la factura del mes siguiente.
 
+**🧾 Resúmenes**
+- Cada resumen de tarjeta que se carga queda guardado por mes: totales, cierre, vencimiento, pago mínimo y todos sus movimientos.
+- Un buscador encuentra cualquier compra, comprobante o cuota sin tener que abrir los PDFs.
+
 **🔔 Alertas**
 - Una barra abajo va rotando lo que necesita atención: gastos sin pagar o por vencer, el tope del monotributo (desde el 90%), facturas sin cobrar, un resumen de deudas y movimientos por aprobar. Tocás una y te lleva a donde está.
 - Con las notificaciones prendidas, te avisa también por fuera de la app de lo urgente (vencimientos y tope; las deudas no, para no molestar).
