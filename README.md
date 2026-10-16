@@ -54,7 +54,7 @@ Planilla de gastos personales en la nube: anual, por categorías y en varias mon
 
 ## Cómo está hecha
 
-- **React + Vite**, compilada en un único `index.html` (vite-plugin-singlefile) que GitHub Pages publica tal cual.
+- **React + Vite**. El código está en `app/`; se compila en un único `index.html` (vite-plugin-singlefile) que GitHub Pages publica tal cual. Cada cambio en `app/` se compila solo con GitHub Actions.
 - **Supabase** para el login (email o modo invitado), la base de datos (`kv_store`) y la sincronización en tiempo real.
 - **Web Crypto API** para el cifrado (AES-256-GCM, clave derivada con PBKDF2).
 
